@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cashier Dashboard App
+</name>
+</assembly>
+<members>
+<member name="T:Cashier_Dashboard_App.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources._261447_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources._6580391_preview_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources._7_78960_burger_transparent_bacon_sonic_bacon_cheeseburger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.bacon_burger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.ccoffee_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.check_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.check_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.coffee_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.coffee_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.coffee_480px11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.coffee_480px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.coffee_480px3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.fire_element_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.fire_in_my_heart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.fire_in_my_heart1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.fire_in_my_heart2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.french_fries_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.french_fries_480px1212">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.french_fries_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.french_fries_96px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.french_fries_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.french_fries_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.GreenPRC_2pcHotcakesSuasageCoffeeHB435X320">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.hamburger_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.hamburger_512px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.hamburger_512px12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.kawaii_ice_cream_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.kawaii_ice_cream_512px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.kawaii_ice_cream_512px11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.kawaii_ice_cream_512px33">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.login_rounded_right_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.login_rounded_right_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.messaging__filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.messaging__filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.messaging__filled_500px11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.messaging__filled_500px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.multi_edit_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.online_store_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.online_store_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.pizza_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.pizza_512px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.Screenshot_103">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.search_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.settings_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.settings_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.sms_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.soda_water_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.soda_water_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.speed_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.speedometer_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.Spicy_Popcorn_Chicken_Box_menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.unnamed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.unnamed__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cashier_Dashboard_App.My.Resources.Resources.unnamed1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
